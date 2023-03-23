@@ -3,8 +3,7 @@
     "repoName": "snik's Angry Birds repo",
     "repoIcon": "CydiaIcon.png"
   },
-  "iPad (HD)": [
-    {
+  "iPad (HD)": [{
       "name": "Angry Birds Classic HD",
       "version": "8.0.3",
       "icon": "https://static.wikia.nocookie.net/angrybirds/images/f/f0/ABCHDAppIcon.jpeg",
@@ -45,5 +44,5 @@
       "description": "Angry Birds in SPACE!!! IN HD!!!",
       "bundleID": "com.rovio.AngryBirdsSpaceHD",
       "appstore": "com.rovio.AngryBirdsSpaceHD"
-      ]
+   }]
 }
